@@ -34,7 +34,7 @@ parts:
   - url: https://flotpython-exos-ds.readthedocs.io/en/main/pandas-tps/collages/README-collages-nb.html
     title: TP collages
   - file: 2-10-timeseries-nb.py
-  - url: https://flotpython-exos-ds.readthedocs.io/en/main/pandas-howtos/HOWTO-fremont-bridge-nb.html
+  - url: https://flotpython-exos-ds.readthedocs.io/en/main/pandas-howtos/fremont-bridge/HOWTO-fremont-bridge-nb.html
     title: les vélos sur le pont de Fremont
   - url: https://flotpython-exos-ds.readthedocs.io/en/main/pandas-tps/covid/README-covid-nb.html
     title: TP Covid
