@@ -19,7 +19,7 @@
 # ---
 
 # %% [markdown]
-# Licence CC BY-NC-ND, Valérie Roy & Thierry Parmentelat
+# License CC BY-NC-ND, Valérie Roy & Thierry Parmentelat
 
 # %%
 from IPython.display import HTML
@@ -392,7 +392,7 @@ m1 = np.arange(27).reshape(3, 3, 3)
 m2 = np.arange(9).reshape(3, 3)
 print("m1", m1, "\nm2", m2, "\nprod", m1 * m2)
 
-# %% {"cell_style": "center", "hide_input": false, "tags": ["raises-exception", "level_intermediate"]}
+# %% {"cell_style": "center", "tags": ["raises-exception", "level_intermediate", "remove-input"]}
 # le code du contre-exemple
 m1 = np.arange(6).reshape(2, 3)
 m2 = np.arange(8).reshape(2, 4)
@@ -599,7 +599,7 @@ def are_broadcast_compatible(s1, s2):
     pass
 
 
-# %% {"scrolled": true, "tags": ["raises-exception"]}
+# %% {"tags": ["raises-exception"]}
 # pour corriger votre code
 
 s1 = (1, 2)
